@@ -1,5 +1,5 @@
 ---
-name: 'USER STORIES: <TITLE>'
+name: 'USER STORY: <TITLE>'
 about: Describe this issue template's purpose here.
 title: ''
 labels: ''
@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-As a Site User I can view a list of posts so that I can select one to read
+As a **role** I can **capability** so that I can **received benefit**
