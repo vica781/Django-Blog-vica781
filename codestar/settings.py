@@ -44,8 +44,10 @@ INSTALLED_APPS = [
     'cloudinary_storage',
     'django.contrib.staticfiles',
     'cloudinary',
-    'blog',
     'django_summernote',
+    'django-allauth',
+    'blog',
+    
 ]
 
 MIDDLEWARE = [
